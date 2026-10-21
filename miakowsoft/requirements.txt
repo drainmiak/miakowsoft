@@ -1,0 +1,3 @@
+# miakowsoft 1.1.0 — no mandatory third-party packages.
+# Optional (uncomment if available in your environment):
+# dnspython>=2.4.0
